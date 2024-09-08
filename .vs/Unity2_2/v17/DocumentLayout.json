@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity\\Unity2_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\roommanager\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\roommanager\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\player\\arrowshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\arrowshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|c:\\unity\\unity2_2\\assets\\roommanager\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\roommanager\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\uimanager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\uimanager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\title\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\title\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|c:\\unity\\unity2_2\\assets\\soundmanager\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\soundmanager\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\boss\\objectgenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\boss\\objectgenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\player\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\boss\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\boss\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\player\\playerlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\playerlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\item\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\item\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\player\\itemkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\itemkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\item\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\item\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\boss\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\boss\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\item\\itembox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\item\\itembox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\roommanager\\savedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\roommanager\\savedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\roommanager\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\roommanager\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|C:\\Unity\\Unity2_2\\assets\\player\\arrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3EA50-86FA-CF92-94DF-4854313F020F}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\arrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1513113793:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\SoundManager\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SoundManager\\SoundManager.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\SoundManager\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\SoundManager\\SoundManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:23:09.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObjectGenManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Boss\\ObjectGenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Boss\\ObjectGenManager.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Boss\\ObjectGenManager.cs",
+              "RelativeToolTip": "Assets\\Boss\\ObjectGenManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:42:46.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BossController.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Boss\\BossController.cs",
+              "RelativeDocumentMoniker": "Assets\\Boss\\BossController.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Boss\\BossController.cs",
+              "RelativeToolTip": "Assets\\Boss\\BossController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:46:25.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Boss\\BulletController.cs",
+              "RelativeDocumentMoniker": "Assets\\Boss\\BulletController.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Boss\\BulletController.cs",
+              "RelativeToolTip": "Assets\\Boss\\BulletController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:44:07.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\RoomManager\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\RoomManager\\SaveData.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\RoomManager\\SaveData.cs",
+              "RelativeToolTip": "Assets\\RoomManager\\SaveData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:11:50.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SaveDataManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\RoomManager\\SaveDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RoomManager\\SaveDataManager.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\RoomManager\\SaveDataManager.cs",
+              "RelativeToolTip": "Assets\\RoomManager\\SaveDataManager.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwGMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:11:22.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TitleManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Title\\TitleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Title\\TitleManager.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Title\\TitleManager.cs",
+              "RelativeToolTip": "Assets\\Title\\TitleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T01:02:36.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerLightController.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Player\\PlayerLightController.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerLightController.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Player\\PlayerLightController.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerLightController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:25:43.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\UIManager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UIManager\\UIManager.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\UIManager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\UIManager\\UIManager.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:28:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Item\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Item\\Door.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Item\\Door.cs",
+              "RelativeToolTip": "Assets\\Item\\Door.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T01:50:37.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\RoomManager\\RoomManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RoomManager\\RoomManager.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\RoomManager\\RoomManager.cs",
+              "RelativeToolTip": "Assets\\RoomManager\\RoomManager.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:57:23.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\RoomManager\\Exit.cs",
+              "RelativeDocumentMoniker": "Assets\\RoomManager\\Exit.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\RoomManager\\Exit.cs",
+              "RelativeToolTip": "Assets\\RoomManager\\Exit.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:48:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemBox.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Item\\ItemBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Item\\ItemBox.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Item\\ItemBox.cs",
+              "RelativeToolTip": "Assets\\Item\\ItemBox.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvyMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:26:10.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Item\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Item\\ItemData.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Item\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Item\\ItemData.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwFQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:26:55.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyController.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Enemy\\EnemyController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAABFwHMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:04:00.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Player\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\CameraManager.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Player\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Player\\CameraManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:52:00.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArrowController.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Player\\ArrowController.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\ArrowController.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Player\\ArrowController.cs",
+              "RelativeToolTip": "Assets\\Player\\ArrowController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:41:30.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrowShoot.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Player\\ArrowShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\ArrowShoot.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Player\\ArrowShoot.cs",
+              "RelativeToolTip": "Assets\\Player\\ArrowShoot.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:31:18.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemKeeper.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Player\\ItemKeeper.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\ItemKeeper.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Player\\ItemKeeper.cs",
+              "RelativeToolTip": "Assets\\Player\\ItemKeeper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:05:11.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity2_2\\Assets\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Unity\\Unity2_2\\Assets\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerController.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAANcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:55:58.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
